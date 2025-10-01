@@ -41,6 +41,8 @@ The dataset used for the training materials is the [Northwind dataset](./data/sq
 
 For database management and query execution, I recommend using [DBeaver Community](https://dbeaver.io/), a free and open-source universal database tool that supports multiple database systems including MySQL, PostgreSQL, SQLite, and more.
 
+> [DataGrip](https://www.jetbrains.com/datagrip/download/) is [now free](https://blog.jetbrains.com/datagrip/2025/10/01/datagrip-is-now-free-for-non-commercial-use/) for non-commercial use. 😊
+
 ### Roadmap
 
 The training roadmap is available [here](./docs/roadmap/roadmap.png).
