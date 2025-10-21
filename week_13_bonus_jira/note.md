@@ -1,4 +1,4 @@
-No, traditional Project Managers and Delivery Managers don't belong to the Scrum team. You must hold this line in any organisation and set clear boundaries.
+No, traditional Project Managers (Delivery Managers/Product Managers) don't belong to the Scrum team. You must hold this line in any organisation and set clear boundaries.
 
 Here's why:
 
